@@ -40,7 +40,7 @@ These notebooks are designed to be run directly on Perlmutter via the NERSC Jupy
 
 ## Resources & Further Reading
 
-* [cite_start]**NERSC User Docs:** [Running Jobs on Perlmutter](https://docs.nersc.gov/jobs/) [cite: 91]
-* [cite_start]**NERSC Training:** [Upcoming and Past Events](https://www.nersc.gov/users/training/events/) [cite: 54]
-* [cite_start]**NUG Slack:** [Join the NERSC Users Slack](https://www.nersc.gov/users/user-news/join-the-nersc-users-slack-sponsored-by-nug-today) [cite: 43]
+* **NERSC User Docs:** [Running Jobs on Perlmutter](https://docs.nersc.gov/jobs/) 
+* **NERSC Training:** [Upcoming and Past Events](https://www.nersc.gov/users/training/events/)
+* **NUG Slack:** [Join the NERSC Users Slack](https://www.nersc.gov/users/user-news/join-the-nersc-users-slack-sponsored-by-nug-today)
 * **NVIDIA Docs:** [CUDA C++ Programming Guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html)
